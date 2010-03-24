@@ -1,0 +1,1 @@
+This is a maven 2 repository
