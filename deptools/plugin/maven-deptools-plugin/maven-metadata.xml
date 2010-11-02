@@ -4,15 +4,16 @@
   <artifactId>maven-deptools-plugin</artifactId>
   <version>1.0-RC1</version>
   <versioning>
-    <latest>1.1-SNAPSHOT</latest>
-    <release>1.0</release>
+    <latest>1.1</latest>
+    <release>1.1</release>
     <versions>
       <version>1.0-RC1</version>
       <version>1.0-RC2</version>
       <version>1.0-RC3</version>
       <version>1.0</version>
       <version>1.1-SNAPSHOT</version>
+      <version>1.1</version>
     </versions>
-    <lastUpdated>20100913225324</lastUpdated>
+    <lastUpdated>20101102224641</lastUpdated>
   </versioning>
 </metadata>
